@@ -30,6 +30,7 @@ const (
 	CodePrefixNameResolution     = "DAPR_NAME_RESOLUTION_"
 	CodePrefixMiddleware         = "DAPR_MIDDLEWARE_"
 	CodePrefixCryptography       = "DAPR_CRYPTOGRAPHY_"
+	CodePrefixScheduler          = "DAPR_SCHEDULER_"
 
 	// State
 	CodePostfixGetStateFailed      = "GET_STATE_FAILED"
